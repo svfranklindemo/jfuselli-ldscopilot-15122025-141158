@@ -1,7 +1,19 @@
 {
-  "mappings": [
-    "/content/pbakliwal/eds-crosswalk-source/:/",
-    "/content/pbakliwal/eds-crosswalk-source/metadata.json:/metadata.json",
-    "/content/pbakliwal/eds-crosswalk-source/redirects.json:/redirects.json"
-  ]
+    "mappings": [
+      "/content/jfuselli/6940172d492d682c0d7fead5/:/",
+      "/content/jfuselli/6940172d492d682c0d7fead5/configuration:/.helix/config.json",
+      "/content/jfuselli/6940172d492d682c0d7fead5/metadata:/metadata.json",
+      "/content/jfuselli/6940172d492d682c0d7fead5/configs:/configs.json",
+      "/content/jfuselli/6940172d492d682c0d7fead5/configs-stage:/configs-stage.json",
+      "/content/jfuselli/6940172d492d682c0d7fead5/configs-dev:/configs-dev.json",
+      "/content/jfuselli/6940172d492d682c0d7fead5/redirects:/redirects.json",
+      "/content/jfuselli/6940172d492d682c0d7fead5/placeholders:/placeholders.json",
+      "/content/jfuselli/6940172d492d682c0d7fead5/products/recommended-products:/products/recommended-products.json",
+      "/content/jfuselli/6940172d492d682c0d7fead5/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/jfuselli/6940172d492d682c0d7fead5/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/jfuselli/6940172d492d682c0d7fead5",
+      "/content/dam/citisignal/images/products/"
+    ]
 }
